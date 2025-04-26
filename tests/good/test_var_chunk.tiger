@@ -1,0 +1,8 @@
+let
+   type a = int
+   var a : a := 2
+   var b : a := 1
+   function a(a : a) : a = a
+in
+   a(a + a)
+end

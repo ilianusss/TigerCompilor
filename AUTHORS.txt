@@ -1,0 +1,4 @@
+Arthur Garraud     <arthur.garraud@epita.fr>
+Iliane Formet      <iliane.formet@epita.fr>
+Shams Remzgui      <shams.remzgui@epita.fr>
+Thomas Polverelli  <thomas.polverelli@epita.fr>

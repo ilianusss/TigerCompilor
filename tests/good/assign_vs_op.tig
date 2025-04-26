@@ -1,0 +1,15 @@
+let
+  var a := 0
+  var b := 1
+  var c := 2
+in
+  a := b + c;
+  a := b = c; /* assign a boolean */
+  a := (b = c) + (a = b);
+  a := a := b := c;
+  a := if b = c then b := a else c := b;
+  a := (b := c) + (c := b);
+  a := b := c := a + b;
+  a := (a := 2) + (b := 3)
+end
+
